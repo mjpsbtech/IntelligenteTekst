@@ -1,5 +1,3 @@
-(TextEdit rtf geopend in Word en opgeslagen als docx)
-
 Collega's,
 
 We leven in onzekerheid over hoe we uit de Corona crisis gaan komen.
