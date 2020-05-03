@@ -69,9 +69,3 @@ Achtergronden:
 https://about.gitlab.com/resources/ebook-remote-playbook/
 
 https://pandoc.org
-
-mac.github.com ---\> command line is eenvoudiger
-
-copy clone URL
-
-https://github.com/mjpsbtech/thuisprojecten.git
